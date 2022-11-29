@@ -1,0 +1,32 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #C6C6C6;
+    font-size: 18px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.bt1 {
+    border-radius: 8px;
+    font-size: 18px;
+    border: 0px;
+}
+.img {
+    border-radius: 50%;
+}
+table {
+    width: 100%;
+  }
