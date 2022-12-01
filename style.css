@@ -54,3 +54,8 @@ table {
     background-color: coral;
     width: 150px;
 } 
+footer {
+    padding: 10px 20px;
+    background: #666;
+    color: white;
+  }
