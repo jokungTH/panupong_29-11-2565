@@ -1,13 +1,7 @@
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+.color{
     background-color: #C6C6C6;
-    font-size: 18px;
 }
-
-li {
+.li1 {
     float: left;
 }
 
@@ -24,38 +18,47 @@ li a {
     font-size: 18px;
     border: 0px;
 }
+
 .img {
     border-radius: 50%;
 }
+
 table {
     width: 100%;
 }
+
 .ha1 {
     border-radius: 25px;
     border: 0px;
     background-color: aqua;
     width: 200px;
-} 
+}
+
 .ha2 {
     border-radius: 25px;
     border: 0px;
     background-color: cornflowerblue;
     width: 250px;
-} 
+}
+
 .ha3 {
     border-radius: 25px;
     border: 0px;
     background-color: seagreen;
     width: 250px;
-} 
+}
+
 .ha4 {
     border-radius: 25px;
     border: 0px;
     background-color: coral;
     width: 150px;
-} 
-footer {
-    padding: 10px 20px;
-    background: #666;
-    color: white;
-  }
+}
+
+.footer {
+    justify-content: end;
+}
+
+.footer1 {
+    justify-content: baseline;
+}
